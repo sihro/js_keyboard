@@ -9,5 +9,5 @@ needs to reimplements methods:  getSrc(id), getBtns(id) to return skin and layou
 
 keyboard works ONLY when input is in focus.
 
-keyboard can print to input(english lower-case letters only - because you can click only ONE key at once? and caps_lock support not implemented.)
+keyboard can print to input(english lower-case letters only - because you can click only ONE key at once, and caps_lock support not implemented.)
 
